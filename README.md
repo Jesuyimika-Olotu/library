@@ -1,6 +1,6 @@
 # Library REST API
 
-A robust, production-ready RESTful API built with **Node.js**, **Express.js**, **MongoDB**, and **Mongoose** for managing books. This project demonstrates clean backend architecture, strict data validation, centralized error handling, and flexible partial update.
+A RESTful API built with Node.js and Express.js, using Mongoose to interact with MongoDB.
 
 ---
 
@@ -26,7 +26,7 @@ library/
 ├── models/
 │   └── Book.js
 ├── routes/
-│   └── bookRoutes.js
+│   └── bookRoute.js
 ├── .env
 ├── .gitignore
 ├── package.json
